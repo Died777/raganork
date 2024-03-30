@@ -21,7 +21,7 @@
         "READ_MESSAGES": {
             "description": "Bot will read all messages. Can be also false",
             "required": true,
-            "value":"false"
+            "value":"true"
         },
         "READ_COMMAND": {
             "description": "Bot will read all commands (blue tick). Can be also false",
@@ -79,7 +79,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "Raganork~326c233e68d7b114012e82d9a4bd4d88:6b71626d6176744850736b3d",
             "required": true
              
         }
